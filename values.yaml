@@ -102,6 +102,10 @@ extraEnv: {}
 #   WEBHOOK_TUNNEL_URL: "https://n8n.myhost.com/
 
 extraEnvFrom: []
+# - configMapRef:
+#     name: config-map-name
+# - secretRef:
+#     name: secret-name
 
 ##
 ##
